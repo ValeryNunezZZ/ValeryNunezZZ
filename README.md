@@ -1,7 +1,7 @@
 # 🌸 Hi there, I'm Valery! 💻✨  
 **Web Developer | Competitive Programming | Algorithms Enthusiast**  
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVmOGVubzA4a3N2aGZtcnk2N2lmNnVwdmxsODlrb3JtYjA2azJrZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif" width="200" align="right">
+<img width="300" align="right" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 ---
 
