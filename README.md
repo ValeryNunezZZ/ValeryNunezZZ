@@ -14,26 +14,33 @@ I love participating in competitions, learning new things, and collaborating in 
 
 ---
 
-## 🏆 Achievements
-- 🥈 **2nd place** — University-Level Integrals Contest (IPN, UNAM, UAM, and Chimalhuacán) — *2023*  
-- 🥈 **2nd place** — “ROSA” Competitive Programming Contest (women-only, ESCOM) — *2025*  
+## 💻 Languages & Technologies
 
----
+<p align="left">
+  <!-- Programming Languages -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
 
-## 💻 Featured Projects
-- 🩺 **Virtual Medical Consultations** — A web app that connects doctors and patients for online consultations *(React, Node.js, APIs REST, CSS3)* — *2nd place at Prototypes IPN*.  
-- 📚 **Exam Preparation Platform** — Academic tracking for students *(HTML5, JavaScript, PHP, phpMyAdmin, CSS3)*.  
-- 🌍 **Server Location by IP** — Geolocation of servers using Leaflet.js and IP Geolocation API by IPify *(React)*.  
-- 🤖 **AI Chat** — Integrated Ollama API + PostgreSQL for real-time interaction and conversation storage *(React, Node.js)*.  
+  <!-- Frameworks & Libraries -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
 
----
-
-## 🛠 Tech & Tools
-**Languages:** C++, Java, JavaScript (ES6+), HTML5, CSS3  
-**Frameworks/Libraries:** React, Tailwind CSS, Bootstrap  
-**Databases:** PostgreSQL, phpMyAdmin  
-**Tools:** Git/GitHub, Figma, VS Code, Postman  
-**Superpowers:** Algorithms, Competitive Programming, API Integration, Frontend Development
+  <!-- Tools -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
@@ -48,6 +55,6 @@ I love participating in competitions, learning new things, and collaborating in 
 - 🐱 [GitHub](https://github.com/your-username)  
 - 📧 **email@example.com**
 
----
+
 
 ✨ *Thanks for visiting my profile! Leave a ⭐ if you liked any of my projects.*  
