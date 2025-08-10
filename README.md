@@ -1,11 +1,16 @@
-# 🌸 Hi there, I'm Valery! 💻✨  
-**Web Developer | Competitive Programming | Algorithms Enthusiast**  
+<h1 align="center">🌸 Hi there, I'm Valery! 💻✨ </h1>
+<h2 align="center">Web Developer | Competitive Programming | Algorithms Enthusiast </h2>
 
-<img width="300" align="right" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Valery+Nuñez..&hearts;++;Self-taught+Front-End+Developer,;Computer+Systems+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+</p>
 
 ---
 
 ## 🌟 About Me
+
+<img width="250" align="right" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
 I'm a **Web Developer** and Computer Engineering student at **ESCOM - IPN** 🐝.  
 I’m passionate about creating projects that combine **technology, creativity, and real-world problem solving**.  
 I love participating in competitions, learning new things, and collaborating in teams where motivation is the main energy source 💪💜.  
