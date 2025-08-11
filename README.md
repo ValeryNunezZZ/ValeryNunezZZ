@@ -56,10 +56,9 @@ I love participating in competitions, learning new things, and collaborating in 
 ---
 
 ## 📫 Let’s Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🐱 [GitHub](https://github.com/your-username)  
-- 📧 **email@example.com**
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/valery-núñez-0446412b5/))    
+- 📧 **valery.2012.nr@gmail.com**
 
 
 
-✨ *Thanks for visiting my profile! Leave a ⭐ if you liked any of my projects.*  
+✨ *Thanks for visiting my profile!*  
