@@ -55,8 +55,7 @@ I love participating in competitions, learning new things, and collaborating in 
 
 ---
 
-## 📫 Let’s Connect!
-- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/valery-núñez-0446412b5/))    
+## 📫 Let’s Connect!   
 - 📧 **valery.2012.nr@gmail.com**
 
 
